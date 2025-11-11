@@ -139,13 +139,13 @@ java -cp out com.chatting.Chat_Client.ChatClient
 - Console communication  
 - Core client-server communication layer  
 
-### ✅ **3. Chandan (GUI Developer — Swing UI)**
+### ✅ **3. Chandan & Chinmayee  (GUI Developer — Swing UI)**
 - ChatClientGUI.java  
 - GUI layout & components  
 - Integrated ChatClient with GUI  
 - Real-time UI updates  
 
-### ✅ **4. Chinmayee (Documentation + Scripts)**
+### ✅ **4. Chandan & Chinmayee (Documentation + Scripts)
 - README.md  
 - Created run scripts (.bat files)  
 - PPT preparation  
